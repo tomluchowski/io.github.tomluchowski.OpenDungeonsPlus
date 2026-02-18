@@ -145,5 +145,5 @@ modules:
     sources:
       - type: git
         url:  https://github.com/tomluchowski/OpenDungeonsPlus
-        tag:  experimental_tag_for_flathub_4
+        tag:  experimental_tag_for_flathub_5
 
