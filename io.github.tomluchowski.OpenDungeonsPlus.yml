@@ -127,8 +127,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/tomluchowski/cegui.git
-        tag: scissors_test_disabled
-        commit: d8c7290c0eabc62e4319af4168a81757c6267403
+        branch: v0
+        commit: 4fee4a6020b0c5ccd980f369abe4ad3680cae428
   # OpenDungeonsPlus module
   - name: opendungeons-plus
     buildsystem: cmake-ninja
