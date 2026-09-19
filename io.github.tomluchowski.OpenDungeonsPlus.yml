@@ -127,7 +127,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/tomluchowski/cegui.git
-        branch: v0
+        # branch: v0
         commit: 4fee4a6020b0c5ccd980f369abe4ad3680cae428
   # OpenDungeonsPlus module
   - name: opendungeons-plus
